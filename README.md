@@ -1,2 +1,2 @@
 # NLP
- nlp projects
+ Natural Language Processing projects
